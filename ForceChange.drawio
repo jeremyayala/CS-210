@@ -1,26 +1,41 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="28.2.5">
   <diagram name="Page-1" id="1Cg3wUkIHRr8cRJc3-VS">
-    <mxGraphModel dx="589" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="583" dy="1375" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QXJj5lNRIFplzhIhImbs-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+        <mxCell id="QXJj5lNRIFplzhIhImbs-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#028090;labelBackgroundColor=none;fillColor=#F45B69;fontColor=#E4FDE1;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="70" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="QXJj5lNRIFplzhIhImbs-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Solid_Vol_2-2639/bxs-hand-left-912.svg" vertex="1" parent="1">
+        <mxCell id="QXJj5lNRIFplzhIhImbs-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Solid_Vol_2-2639/bxs-hand-left-912.svg;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
           <mxGeometry x="60" y="120" width="154" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="QXJj5lNRIFplzhIhImbs-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Navigation_Set_-_Arrows__Part_Two-2821/Arrow_Upward-1414.svg" vertex="1" parent="1">
-          <mxGeometry x="270" y="510" width="172" height="172" as="geometry" />
+        <mxCell id="QXJj5lNRIFplzhIhImbs-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Navigation_Set_-_Arrows__Part_Two-2821/Arrow_Upward-1414.svg;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="252" y="242" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="QXJj5lNRIFplzhIhImbs-4" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="QXJj5lNRIFplzhIhImbs-4" value="" style="shape=link;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#028090;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="50" y="720" as="sourcePoint" />
             <mxPoint x="590" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QXJj5lNRIFplzhIhImbs-5" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="QXJj5lNRIFplzhIhImbs-5" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
           <mxGeometry x="80" y="420" width="30" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="QXJj5lNRIFplzhIhImbs-6" value="&lt;h2&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;1.6 meters&lt;/b&gt;&lt;/span&gt;&lt;/h2&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="537" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QXJj5lNRIFplzhIhImbs-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Navigation_Set_-_Arrows__Part_Two-2821/Arrow_Upward-1414.svg;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="501" width="219" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="QXJj5lNRIFplzhIhImbs-8" value="&lt;h3&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;F: Force of Gravity (acting down)&lt;/b&gt;&lt;/span&gt;&lt;/h3&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="588" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QXJj5lNRIFplzhIhImbs-9" value="&lt;h3&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;F: Force of Impact (acting up)&lt;/b&gt;&lt;/span&gt;&lt;/h3&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="461.5" y="386" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QXJj5lNRIFplzhIhImbs-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="336.5" y="456" width="31" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
